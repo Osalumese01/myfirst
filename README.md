@@ -7,3 +7,5 @@ Use Logistics Regression
 Dataset Split 80:20
 Use 5-Fold Cross-Validation
 Make sure you achieve at least 81% accuracy on test sample.
+
+USING A CSV FILE AND GOOGLE COLAB
